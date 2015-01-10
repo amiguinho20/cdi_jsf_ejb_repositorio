@@ -18,3 +18,5 @@ Observacoes:
 - O arquivo "faces-config.xml" existe apenas para configurar o arquivo de labels dos campos,
   que eh o "messages_labels.properties".
       
+
+teste.
