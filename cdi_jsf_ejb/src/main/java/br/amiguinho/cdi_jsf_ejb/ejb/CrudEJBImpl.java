@@ -20,7 +20,7 @@ public class CrudEJBImpl implements CrudEJB{
 		jogadores.add(new Jogador("Ze Roberto", "Palmeiras"));
 		jogadores.add(new Jogador("Edu Dracena", "Santos"));
 		jogadores.add(new Jogador("Neymar Jr", "Barcelona"));
-		jogadores.add(new Jogador("Garreth Bale", "Real Madri"));
+		jogadores.add(new Jogador("Gareth Bale", "Real Madri"));
 		return jogadores;
 	}
 
